@@ -1,12 +1,6 @@
-# GesturePwdView
-手势密码
-
-![img](https://github.com/aositeluoke/GesturePwdView/blob/master/image/NinePwdView.gif)
-
+## GesturePwdView
 ##### 1、效果图
 ![NinePwdView.gif](https://upload-images.jianshu.io/upload_images/3034670-72b00c4ed2fd2aab.gif?imageMogr2/auto-orient/strip)
-
-GitHub:https://github.com/aositeluoke/GesturePwdView
 ##### 2、数学知识准备
 2.1、三角函数<br/>2.2、两点间的距离计算<br/>2.3、勾股定理<br/>2.4、角度与弧度的换算
 
