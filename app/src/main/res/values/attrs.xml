@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DrawTextView">
+        <attr name="text" format="string" />
+    </declare-styleable>
+    <declare-styleable name="GesturePwdView">
+        <attr name="nomal_color" format="reference|color" />
+        <attr name="select_color" format="reference|color" />
+        <attr name="error_color" format="reference|color" />
+        <attr name="success_color" format="reference|color" />
+        <attr name="out_ring_width" format="reference|dimension" />
+        <attr name="inner_ring_width" format="reference|dimension" />
+        <attr name="line_width" format="reference|dimension" />
+        <attr name="min_length" format="integer" />
+    </declare-styleable>
+</resources>
